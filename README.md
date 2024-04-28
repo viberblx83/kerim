@@ -1,2 +1,2 @@
 # Kerim Project
-Tuqay Made design i made authuser and backend
+idk random project made by Kerim and Tuqayy
