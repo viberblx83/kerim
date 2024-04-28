@@ -1,2 +1,2 @@
 # Kerim Project
-TuqayW Made Frontend I made backend
+Tuqay Made design i made authuser and backend
